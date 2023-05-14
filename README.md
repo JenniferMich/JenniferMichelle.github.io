@@ -2,10 +2,10 @@
 ###### 🌸Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro🌸
 
 ## ÍNDICE
-* [Intro](https://github.com/JenniferMich/Google-Clone/edit/main/README.md#intro-)
-* [¿Qué construí?](https://github.com/JenniferMich/Google-Clone/edit/main/README.md#qu%C3%A9-construi-)
-* [Objetivos del proyecto](https://github.com/JenniferMich/Google-Clone/edit/main/README.md#objetivos-del-proyecto-)
-* [¡Link al Demo!](https://github.com/JenniferMich/Google-Clone/edit/main/README.md#link-al-demo-)
+* [Intro](https://github.com/JenniferMich/P-gina-de-curriculum/blob/main/README.md#-intro)
+* [¿Qué construí?](https://github.com/JenniferMich/P-gina-de-curriculum/blob/main/README.md#-intro)
+* [Objetivos del proyecto](https://github.com/JenniferMich/P-gina-de-curriculum/blob/main/README.md#-intro)
+* [¡Link al Demo!](https://github.com/JenniferMich/P-gina-de-curriculum/blob/main/README.md#-intro)
 
 ***
 
